@@ -1,6 +1,6 @@
 # CS320
 How is software automation improving efficiency?
--With automated testing, it fres up developers time therefore saves time and money.  The saved time can be focused elsewhere to get more done and be more efficient.
+-With automated testing, it frees up developers time therefore saves time and money.  The saved time can be focused elsewhere to get more done and be more efficient.
 
 How is it changing the field of software development?
 -Its changing the field of SD becasue its makeing developers/testers learn new skills, speeinging up testing processes, and saving companies time and money during projects.
